@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Virtual Printer</string>
-    <string name="print_error">Error processing print job</string>
-    <string name="printer_not_ready">Printer is not ready</string>
-    <string name="processing_error">Error while processing document</string>
-    <string name="invalid_print_job">Invalid print job</string>
-    <string name="printer_status">Printer Status: %1$s</string>
-</resources> 
